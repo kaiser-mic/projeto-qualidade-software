@@ -16,25 +16,6 @@
 
 O processo de desenvolvimento utilizado pela equipe para implementar novas funcionalidades no sistema **LocalEats** segue um fluxo simples, contemplando desde o recebimento da demanda até a entrega da funcionalidade validada.
 
-## Fluxograma (Mermaid)
-
-```mermaid
-flowchart TD
-
-A[Recebimento da Demanda] --> B[Análise dos Requisitos]
-B --> C[Planejamento da Implementação]
-C --> D[Desenvolvimento da Funcionalidade]
-D --> E[Testes Automatizados e Manuais]
-
-E --> F{Funcionou corretamente?}
-
-F -- Não --> G[Correção dos Problemas]
-G --> E
-
-F -- Sim --> H[Revisão Final]
-H --> I[Entrega da Funcionalidade]
-```
-
 ### Descrição do Processo
 
 1. A equipe recebe uma nova demanda ou requisito.
