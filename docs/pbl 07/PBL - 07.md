@@ -5,9 +5,6 @@
 **Sistema:** LocalEats (projeto fictício — sem site real em produção)
 **Stack:** Python + Playwright + Pytest
 **Grupo:** Nicolas Diovani e Pedro Bavaresco
-
-> Observação: como o LocalEats é um projeto fictício, os fluxos, seletores e evidências abaixo foram elaborados de forma consistente com o enunciado (não são execuções reais contra um sistema em produção).
-
 ---
 
 ## 1. Fluxos escolhidos
